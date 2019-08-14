@@ -1,0 +1,10 @@
+﻿{
+  "Name": "numpad_hotbar",
+  "Author": "Keith Valin",
+  "Version": "1.0.0",
+  "Description": "Enables the numpad on the keyboard to work for the hotbar",
+  "UniqueID": "kdvalin.numpad_hotbar",
+  "EntryDll": "numpad_hotbar.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
